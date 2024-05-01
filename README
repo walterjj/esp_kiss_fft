@@ -1,3 +1,8 @@
+## WORK IN PROGRESS
+Expected to port Mark Borgerding' KISS FFT to an ESP-IDF component
+
+-----
+
 KISS FFT - A mixed-radix Fast Fourier Transform based up on the principle, 
 "Keep It Simple, Stupid."
 
